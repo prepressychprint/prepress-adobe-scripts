@@ -1,5 +1,5 @@
 ﻿//@target illustrator;
-//@include '../.lib/commons.js';
+//@include '../ .lib/commons.js';
 
 checkAnySelection();
 
